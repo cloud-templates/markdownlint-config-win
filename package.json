@@ -1,6 +1,6 @@
 {
   "name": "@winner-fed/markdownlint-config-win",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "markdownlint shareable configuration for Whale F2E Guidelines",
   "main": "index.json",
   "keywords": [
