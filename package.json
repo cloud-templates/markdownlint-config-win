@@ -1,0 +1,18 @@
+{
+  "name": "@winner-fed/markdownlint-config-win",
+  "version": "1.0.0",
+  "description": "markdownlint shareable configuration for Whale F2E Guidelines",
+  "main": "index.json",
+  "keywords": [
+    "markdownlint",
+    "markdownlint-config",
+    "@winner-fed/f2elint"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "markdownlint": "^0.23.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
