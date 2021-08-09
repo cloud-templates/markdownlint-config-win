@@ -7,7 +7,10 @@
 除了本包，需要同时安装 [markdownlint](https://www.npmjs.com/package/markdownlint)：
 
 ```bash
+# npm
 npm install @winner-fed/markdownlint-config-win markdownlint --save-dev
+# yarn 
+yarn add @winner-fed/markdownlint-config-win markdownlint --dev
 ```
 
 ## 使用
